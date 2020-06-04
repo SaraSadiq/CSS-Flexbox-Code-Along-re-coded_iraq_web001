@@ -28,5 +28,5 @@ main{
 }
 .setWidth {
   flex-basis: 100px;
-  flex-grow: 20;
+  flex-grow: 1;
 }
