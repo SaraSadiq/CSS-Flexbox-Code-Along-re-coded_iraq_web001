@@ -5,5 +5,9 @@
   flex-direction: column;
 }
 header{
-  height: 10%;
+  height: 80px;
 }
+footer{
+  height: 80px;
+}
+
